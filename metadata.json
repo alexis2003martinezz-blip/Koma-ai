@@ -1,0 +1,5 @@
+{
+  "name": "Koma AI",
+  "description": "A sophisticated AI companion with Think, Pro, and Study modes, multi-modal capabilities, and live voice interaction.",
+  "requestFramePermissions": ["microphone", "camera"]
+}
